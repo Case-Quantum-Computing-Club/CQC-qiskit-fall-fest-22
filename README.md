@@ -29,8 +29,8 @@ We are proud to welcome you to the CQC Qiskit Fall Fest. Our team of organizers 
 
 | Date | Event |
 | --- | --- |
-| Mon, Oct 10 | Intro to Quantum Computing (Adrian Harkness) <br /> Intro to Linear Algebra for QC (Prof. Shuai Xu) |
-| Tue, Oct 11 | Intro to Qiskit (Caden Kacmarynski) <br /> Intro to Quantum Mechanics (Prof. Jesse Berezovsky) |
+| Mon, Oct 10 | Intro to Quantum Computing (Caden Kacmarynski) <br /> Intro to Linear Algebra for QC (Prof. Shuai Xu) |
+| Tue, Oct 11 | Intro to Qiskit (Adrian Harkness) <br /> Intro to Quantum Mechanics (Prof. Jesse Berezovsky) |
 | Wed, Oct 12 | Application - Qiskit Nature (Dr. Das Pemmaraju) |
 | Thu, Oct 13 | Application - Qiskit Finance (Grishma Prasad) |
 | Fri, Oct 14 | Application - Qiskit Machine Learning (Ruihao Li) |
