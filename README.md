@@ -11,7 +11,7 @@ The Fall Fest @ CWRU is going to be a two-week event. The first week (Oct. 10 - 
 ## <img src='img/icon_1.png' height=4% width=4% align=center>  Official Registration
 - You may choose to participate in the workshops or the hackathon, or both! Before signing up for the hackathon, please read the event details below.
 - This is a hackathon for members of CWRU only.
-- To officially sign up, register using [this link](???).
+- To officially sign up, register using [this link](https://docs.google.com/forms/d/1J1wS6Z5Vp1Ptguil-dmrk4_oTPiZ9v0ZLp_cImEr32c/prefill).
 
 
 ## <img src='img/icon_1.png' height=4% width=4% align=center>  Hackathon Details
@@ -29,11 +29,11 @@ We are proud to welcome you to the CQC Qiskit Fall Fest. Our team of organizers 
 
 | Date | Event |
 | --- | --- |
-| Mon, Oct 10 | Intro to Qiskit (speaker...) |
-| Tue, Oct 11 | Intro to Quantum Computing (Theory) |
-| Wed, Oct 12 | Intro to Qiskit Nature |
-| Thu, Oct 13 | Intro to Qiskit Finance |
-| Fri, Oct 14 | Intro to Qiskit Machine Learning |
+| Mon, Oct 10 | Intro to Quantum Computing (Adrian Harkness) <br /> Intro to Linear Algebra for QC (Prof. Shuai Xu) |
+| Tue, Oct 11 | Intro to Qiskit (Caden Kacmarynski) <br /> Intro to Quantum Mechanics (Prof. Jesse Berezovsky) |
+| Wed, Oct 12 | Application - Qiskit Nature (Dr. Das Pemmaraju) |
+| Thu, Oct 13 | Application - Qiskit Finance (Grishma Prasad) |
+| Fri, Oct 14 | Application - Qiskit Machine Learning (Ruihao Li) |
 | Sat, Oct 15 | Teams Formed and Hackathon Begins |
 | Fri, Oct 21 | Submissions Due and Project Presentations |
 | Mon, Oct 24 | Winners Announced |
