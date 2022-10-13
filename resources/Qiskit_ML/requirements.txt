@@ -1,0 +1,7 @@
+matplotlib==3.5.2
+numpy==1.23.1
+qiskit==0.38.0
+qiskit_machine_learning==0.4.0
+scikit_learn==1.1.2
+torch==1.10.0
+torchvision==0.11.2
